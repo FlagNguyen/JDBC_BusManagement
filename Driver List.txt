@@ -1,0 +1,5 @@
+ID   | Full Name           | Address   | Phone       | Level|
+10001| Nguyen Dang Tran    | Ha Noi    | 0739539256  | A    |
+10002| Nguyen Tuan Kiet    | Ha Nam    | 0734579256  | B    |
+10003| Hoang Tuan Kien     | Ha Tay    | 934520234   | C    |
+10004| Quoc Ky             | Ha Noi    | 1234152     | A    |
